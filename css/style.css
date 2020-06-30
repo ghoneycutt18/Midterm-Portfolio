@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+<>.fakeimg {
+    height: 200px;
+    background: #aaa;
+}
+
+body {
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/double-bubble.png);
+    font-family: 'Raleway', sans-serif;
+}
+
+img {
+    border-radius: 50%;
+}
